@@ -6,7 +6,7 @@
 
 ![](images/read_the_rules.png)
 
-After reading the CTF rules, we have no indication on what to do, the first thing to do is to check in the source code. The first flag is on line 142.
+After reading the CTF rules, we have no indication on what to do, the first thing to do is to check in the source code. The first flag is on line 242.
 
 ![](images/rules_flag.png)
 
