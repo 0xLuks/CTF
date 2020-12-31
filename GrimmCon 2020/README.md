@@ -14,7 +14,9 @@ By searching for wannabeel33t on Google, one quickly find a link a link to has r
 
 ![](images/reddit_profile.png)
 
-![](images/wanabee_flag.png)
+The -d parameter is used to specify that you want to decode the char string
+
+![](images/wannabee_flag.png)
 
 
 flag{66b15347c58c91d1937f0b40e973d3f6}
