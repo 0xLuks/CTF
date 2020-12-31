@@ -2,13 +2,19 @@
 
 ## WARMUP
 
+
+
+## OSINT
+
 ### 1- wannabeel33t
 
 ![](images/wannabeel33t.png)
 
-By searching for wannabeel33t on Google, one quickly find a link a link to has reddit profile. In particular this string which looks like an encoded URL.
+By searching for wannabeel33t on Google, one quickly find a link a link to has reddit profile. In particular this string which looks like an [encoded URL](https://fr.wikipedia.org/wiki/Encodage-pourcent).
 
-## OSINT
+![](images/reddit_profile.png)
+
+![](images/wanabee_flag.png)
 
 
-
+flag{66b15347c58c91d1937f0b40e973d3f6}
