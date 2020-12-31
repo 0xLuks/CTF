@@ -14,7 +14,26 @@ flag{90bc54705794a62015369fd8e86e557b}
 
 ### 2- Zip Zip
 
-![]
+![](images/zipzip_state.png)
+
+There is a .zip file to download that has been compressed 50 times. We are given the password "pass" and indeed when we decompress it, we end up with 49.zip then 48.zip etc. To avoid having to do it fifty times, I will use a simple but effective powershell script.
+
+```powershell
+$i = 0
+Do{
+$7ZipPath = '"C:\Program Files\7-Zip\7z.exe"' 
+$zipFile = '"D:\Téléchargements\50.zip"' 
+$zipFilePassword = "pass" 
+$command = "& $7ZipPath e -oD:\chall -y -tzip -p$zipFilePassword $zipFile" 
+iex $command
+
+$7ZipPath = '"C:\Program Files\7-Zip\7z.exe"' 
+$zipFile = '"D:\chall\*.zip"' 
+$zipFilePassword = "pass" 
+$command = "& $7ZipPath e -oD:\chall -y -tzip -p$zipFilePassword $zipFile" 
+iex $command
+}Until($i -eq 50)
+```
 
 ## OSINT
 
