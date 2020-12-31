@@ -16,7 +16,7 @@ flag{90bc54705794a62015369fd8e86e557b}
 
 ![](images/zipzip_state.png)
 
-There is a .zip file to download that has been compressed 50 times. We are given the password "pass" and indeed when we decompress it, we end up with 49.zip then 48.zip etc. To avoid having to do it fifty times, I will use a simple but effective powershell script.
+There is a .zip file to download that has been compressed 50 times. We are given the password "pass" and indeed when we decompress it, we end up with 49.zip then 48.zip etc. To avoid having to do it fifty times, I will use a simple but effective [powershell](https://github.com/0xLuks/CTF/blob/main/GrimmCon%202020/scripts/multiple_unzip.ps1) script.
 
 ```powershell
 $i = 0
