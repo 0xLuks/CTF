@@ -34,6 +34,9 @@ $command = "& $7ZipPath e -oD:\chall -y -tzip -p$zipFilePassword $zipFile"
 iex $command
 }Until($i -eq 50)
 ```
+![](images/after_unzip.png)
+
+flag{cf97382071cb149aac8d6ab8baeaa3ee}
 
 ## OSINT
 
