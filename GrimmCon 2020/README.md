@@ -44,7 +44,7 @@ The statement tell us about ASCII and encoding, when I open the file it reminds 
 
 ![](images/encoded.png)
 
-![](images/b64_d.png)
+![](images/b64_dc.png)
 
 flag{39905d2148f4fdb7b025c23d684003cb}
 
