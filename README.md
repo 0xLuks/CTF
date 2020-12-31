@@ -1,3 +1,5 @@
-# CTF
+# GrimmCon CTF 2020
 
-![Légende](wannabeel33t.png)
+
+
+
