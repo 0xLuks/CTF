@@ -2,7 +2,19 @@
 
 ## WARMUP
 
-### 1- Read the rules 
+### 1- Read the rules
+
+![](images/read_the_rules.png)
+
+After reading the CTF rules, we have no indication on what to do, the first thing to do is to check in the source code. The first flag is on line 142.
+
+![](images/rules_flag.png)
+
+flag{90bc54705794a62015369fd8e86e557b}
+
+### 2- Zip Zip
+
+![]
 
 ## OSINT
 
