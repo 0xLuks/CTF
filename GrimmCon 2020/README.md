@@ -42,7 +42,11 @@ flag{cf97382071cb149aac8d6ab8baeaa3ee}
 
 The statement tell us about ASCII and encoding, when I open the file it reminds me directly of the Base64 encoding. The autor of the challenge also tells us that he doesn't know how to decode his message anymore, why ? Because it was encoded several times. It will be necessary to go through three times to find the flag.
 
-![](images/)
+![](images/encoded.png)
+
+![](images/b64_d.png)
+
+flag{39905d2148f4fdb7b025c23d684003cb}
 
 ## OSINT
 
