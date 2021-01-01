@@ -64,11 +64,17 @@ We are told that the image is blurry and indeed it is blurry to the point of hur
 
 ![](images/qr_code.png)
 
-I know there is a feature in the gimp software that allows you to work on this, let's try it with this configuration.
+I know there is a feature in the gimp software that allows you to work on this, let's try it with this configuration. Filters -> Enhance -> Sharpen
 
 ![](images/qr_code_sharp.png)
 
-### 7- wannabeel33t
+Now it works and I get the flag!
+
+![](images/qr_code_flag.png)
+
+flag{3efd4bd34663e618c70e051505c83f9f}
+
+### 5- wannabeel33t
 
 ![](images/wannabeel33t.png)
 
