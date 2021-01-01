@@ -1,12 +1,12 @@
 # GrimmCon CTF 2020
 
-![]
+![](images/grimm.png)
 
 ## Context
 
 This is my first participation at the GrimmCon CTF. I have just finished my day (python training) that the CTF is starting. 🤯 I lost a lot of time on the web and forensic challenges, but not that much time, because reading the other write-ups, I wasn't that far away.
 
-I finish 179 out of 472 participants.
+I finish 179th out of 472 participants.
 
 ### 1- Read the rules
 
