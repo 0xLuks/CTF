@@ -58,7 +58,9 @@ flag{39905d2148f4fdb7b025c23d684003cb}
 
 ### 4- Hyperopia
 
-![](images/)
+
+
+![](images/hyperopia.png)
 
 ### 7- wannabeel33t
 
