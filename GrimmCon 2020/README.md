@@ -1,6 +1,6 @@
 # GrimmCon CTF 2020
 
-## WARMUP
+## Context
 
 ### 1- Read the rules
 
@@ -50,9 +50,7 @@ The statement tell us about ASCII and encoding, when I open the file it reminds 
 
 flag{39905d2148f4fdb7b025c23d684003cb}
 
-## OSINT
-
-### 1- wannabeel33t
+### 7- wannabeel33t (OSINT)
 
 ![](images/wannabeel33t.png)
 
