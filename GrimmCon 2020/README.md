@@ -56,7 +56,11 @@ The statement tell us about ASCII and encoding, when I open the file it reminds 
 
 flag{39905d2148f4fdb7b025c23d684003cb}
 
-### 7- wannabeel33t (OSINT)
+### 4- Hyperopia
+
+![](images/)
+
+### 7- wannabeel33t
 
 ![](images/wannabeel33t.png)
 
