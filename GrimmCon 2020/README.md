@@ -58,9 +58,15 @@ flag{39905d2148f4fdb7b025c23d684003cb}
 
 ### 4- Hyperopia
 
+![](images/hyperopia_state.png)
 
+We are told that the image is blurry and indeed it is blurry to the point of hurting the eyes. Impossible to scan with my smartphone.
 
-![](images/hyperopia.png)
+![](images/qr_code.png)
+
+I know there is a feature in the gimp software that allows you to work on this, let's try it with this configuration.
+
+![](images/qr_code_sharp.png)
 
 ### 7- wannabeel33t
 
