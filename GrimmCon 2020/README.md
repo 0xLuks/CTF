@@ -4,7 +4,7 @@
 
 ## Context
 
-This is my first participation at the GrimmCon CTF. I have just finished my day (python training) that the CTF is starting. 🤯 I lost a lot of time on the web and forensic challenges, but not that much time, because reading the other write-ups, I wasn't that far away.
+This is my first participation at the GrimmCon CTF. I have just finished my day (python training) that the CTF is starting. 🤯 I lost a lot of time on the web and forensic challenges, but not that much time, because reading the other write-ups, I wasn't that far away. The CTF has started at 5:45pm and ended at 12:30am.
 
 I finish 179th out of 472 participants.
 
