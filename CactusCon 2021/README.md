@@ -1,6 +1,6 @@
 # CactusCon CTF 2021
 
-![](images/cactuscon.png)
+![](pics/cactuscon.png)
 
 ## Context
 
@@ -12,79 +12,78 @@ I finish 68th out of 420 participants.
 
 ### Collecting pokemons
 
-![](images/collecting_pokemons.png)
+![](pics/collecting_pokemons.png)
 
 ### DIV Isn't Only for HTML
 
-![](images/div_isn't.png)
+![](pics/div isn't.png)
 
 ### Agent Smith
 
-![](images/agent_smith.png)
+![](pics/agent.png)
 
 ## 2- CovidScammers
 
 ### Free Flag (and binary)
 
-![](images/freeflag1.png)
+![](pics/freeflag.png)
 
 ### Syscalls
 
-![](images/syscalls.png)
+![](pics/syscalls.png)
 
 ### Who Me?
 
-![](images/whome.png)
+![](pics/whome.png)
 
 ### Scouting
 
-![](images/scounting.png)
+![](pics/scouting.png)
 
 ## 3- Cracking
 
 ### Easy crack 2
 
-![](images/easy2.png)
+![](pics/easy2.png)
 
 ### Easy crack 3
 
-![](images/easy3.png)
+![](pics/easy3.png)
 
 ### Easy crack 5
 
-![](images/easy5.png)
+![](pics/easy5.png)
 
 ## 4- Feeling Blue
 
 ### Dangers of Lateral Movement 1
 
-![](images/dangers1.png)
+![](pics/dangers1.png)
 
 ### Dangers of Lateral Movement 2
 
-![](images/dangers2.png)
+![](pics/dangers2.png)
 
 ### Hello Goodbye 2
 
-![](images/hello2.png)
+![](pics/hello2.png)
 
 ### Hello Goodbye 4
 
-![](images/hello4.png)
+![](pics/hello4.png)
 
 ### What SMB Activity? 1
 
-![](images/SMB1.png)
+![](pics/smb1.png)
 
 ### What SMB Activity? 2
 
-![](images/SMB2.png)
+![](pics/smb2.png)
 
 ## 5- Misc
 
 ### Discord
 
-![](images/discord.png)
-
+![](pics/discord.png)
 
 
