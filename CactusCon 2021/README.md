@@ -18,7 +18,7 @@ I finish 68th out of 420 participants.
 The aim is to find the user-agent used for http post requests.<br/>
 We download the .pcap file and open it with wireshark.
 
-Use the filtre http.request.method == "POST"
+Use the filter http.request.method == "POST"
 
 ![](pics/pokemon_follow_stream.png)
 
@@ -31,6 +31,21 @@ Flag : <b>Mozilla/4.08 (Charon; Inferno)</b>
 ### DIV Isn't Only for HTML
 
 ![](pics/divisn't.png)
+
+The hash of the executable file must be found. I open the .pcap file</br>
+in the Network Miner tool.
+
+![](pics/miner_tool.png)
+
+I open the file tab and find the div.exe file. Right click then Calculate MD5 / SHA1 ... hash
+
+![](pics/div.png)
+
+![](pics/div.exe.png)
+
+Hash md5 found!
+
+Flag : <b>79afa994e75a30118512e2a079c859b1</b>
 
 ### Agent Smith
 
