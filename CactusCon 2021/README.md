@@ -154,6 +154,13 @@ Flag : <b>kuako</b>
 
 ![](pics/dangers1.png)
 
+We download a file from the Windows event viewer to analyze it, set the error</br>
+filter, we quickly find a strange service.
+
+![](pics/dangers1_f.png)
+
+Flag : <b>53b07c3</b>
+
 ### Dangers of Lateral Movement 2
 
 ![](pics/dangers2.png)
