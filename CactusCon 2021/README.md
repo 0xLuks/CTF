@@ -196,6 +196,12 @@ Flag : <b>sAadmin</b>
 
 ![](pics/smb1.png)
 
+We open the .pcap file in wireshark and filter on smb2, we find the name
+
+![](pics/smb1_f.png)
+
+Flag : <b>PipeMeMario</b>
+
 ### What SMB Activity? 2
 
 ![](pics/smb2.png)
