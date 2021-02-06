@@ -44,9 +44,15 @@ I finish 68th out of 420 participants.
 
 ### Easy crack 2
 
+![](images/easy2.png)
+
 ### Easy crack 3
 
+![](images/easy3.png)
+
 ### Easy crack 5
+
+![](images/easy5.png)
 
 ## 4- Feeling Blue
 
