@@ -206,6 +206,20 @@ Flag : <b>PipeMeMario</b>
 
 ![](pics/smb2.png)
 
+We filter on smb2.data.offset and we see the "read response" stream with date (75 bytes).</br>
+
+![](pics/smb2_f1.png)
+
+I send the stream to "Follow TCP Stream"
+
+![](pics/smb2_f2.png)
+
+At the very bottom I find something that looks like base64.
+
+![](pics/smb2_f3.png)
+
+Flag : <b>flag{AnalyzeTheTrafficAndDecodeTheBase64}</b>
+
 ## 5- Misc
 
 ### Discord
