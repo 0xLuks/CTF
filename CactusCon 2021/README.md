@@ -68,6 +68,14 @@ Flag : <b>smtp</b>
 
 ![](pics/freeflag.png)
 
+The binary is an executable 32bit LSB ELF. Given the instruction</br>
+i vill simply use the string command and grep to "flag" with the -i</b>
+parameter for case sensitive.
+
+![](pics/freeflag_f.png)
+
+Flag : <b>TS{freeFlagLookatMe}</b>
+
 ### Syscalls
 
 ![](pics/syscalls.png)
