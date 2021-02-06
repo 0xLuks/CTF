@@ -170,9 +170,17 @@ at 20:10/21 from the adress 192.168.27.134.
 
 ![](pics/danger2_f.png)
 
+Flag : <b>192.168.27.134</b>
+
 ### Hello Goodbye 2
 
 ![](pics/hello2.png)
+
+In the logs we found a kerberot ticket request on 02/02/2021 at 05:38:55 on the user Arash.
+
+![](pics/hello2_f.png)
+
+Flag : <b>Arash</b>
 
 ### Hello Goodbye 4
 
