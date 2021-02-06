@@ -142,6 +142,12 @@ Flag <b>09205973067</b>
 
 ![](pics/easy5.png)
 
+As with the first one, I use john
+
+![](pics/easy5_f.png)
+
+Flag : <b>kuako</b>
+
 ## 4- Feeling Blue
 
 ### Dangers of Lateral Movement 1
