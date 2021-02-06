@@ -53,6 +53,15 @@ Flag : <b>79afa994e75a30118512e2a079c859b1</b>
 
 ![](pics/agent.png)
 
+It is necessary to find the protocol used during the data exfiltration.</br>
+
+I open .pcap file in wireshark and after a little research I find an auth</br>
+then a data exfiltration with the SMTP protocol.
+
+![](pics/smtp.png)
+
+Flag : <b>smtp</b>
+
 ## 2- CovidScammers
 
 ### Free Flag (and binary)
