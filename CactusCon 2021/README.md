@@ -4,7 +4,8 @@
 
 ## Context
 
-This is my first participation at the CactusCon CTF. He has started at 5:00pm on Friday and finished at 01:00am on Saturday.
+This is my first participation at the CactusCon CTF.<br/>
+He has started at 5:00pm on Friday and finished at 01:00am on Saturday.
 
 I finish 68th out of 420 participants.
 
@@ -13,6 +14,19 @@ I finish 68th out of 420 participants.
 ### Collecting pokemons
 
 ![](pics/collecting_pokemons.png)
+
+The aim is to find the user-agent used for http post requests.<br/>
+We download the .pcap file and open it with wireshark.
+
+Use the filtre http.request.method == "POST"
+
+![](pics/pokemon_follow_stream.png)
+
+Then Follow TCP stream to find the user-agent.
+
+![](pics/pokemon_flag.png)
+
+Flag : <b>Mozilla/4.08 (Charon; Inferno)</b>
 
 ### DIV Isn't Only for HTML
 
