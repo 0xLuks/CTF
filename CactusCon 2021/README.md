@@ -38,7 +38,7 @@ I finish 68th out of 420 participants.
 
 ### Scouting
 
-![](images/scouting.png)
+![](images/scounting.png)
 
 ## 3- Cracking
 
