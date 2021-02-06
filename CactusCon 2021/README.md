@@ -81,7 +81,7 @@ Flag : <b>TS{freeFlagLookatMe}</b>
 ![](pics/syscalls.png)
 
 We have to have the syscall call that prevents us from continuing the analysis.</br>
-I give the rights to the "client" file and I use to retrieve the syscall.
+I give the rights to the "client" file and I use strace to retrieve the syscall.
 
 ![](pics/syscall_f.png)
 
