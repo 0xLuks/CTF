@@ -132,6 +132,12 @@ Flag : <b>Bonnie48</b>
 
 ![](pics/easy3.png)
 
+It's an NTLM hash, I use crackstation.
+
+![](pics/easy3_f.png)
+
+Flag <b>09205973067</b>
+
 ### Easy crack 5
 
 ![](pics/easy5.png)
