@@ -58,19 +58,33 @@ I finish 68th out of 420 participants.
 
 ### Dangers of Lateral Movement 1
 
+![](images/dangers1.png)
+
 ### Dangers of Lateral Movement 2
+
+![](images/dangers2.png)
 
 ### Hello Goodbye 2
 
+![](images/hello2.png)
+
 ### Hello Goodbye 4
+
+![](images/hello4.png)
 
 ### What SMB Activity? 1
 
+![](images/SMB1.png)
+
 ### What SMB Activity? 2
+
+![](images/SMB2.png)
 
 ## 5- Misc
 
 ### Discord
+
+![](images/discord.png)
 
 
 
