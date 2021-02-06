@@ -26,7 +26,7 @@ I finish 68th out of 420 participants.
 
 ### Free Flag (and binary)
 
-![](images/freeflag.png)
+![](images/freeflag1.png)
 
 ### Syscalls
 
