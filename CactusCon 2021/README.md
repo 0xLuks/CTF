@@ -121,6 +121,13 @@ Flag : <b>covidfunds.net</b>
 
 ![](pics/easy2.png)
 
+$1$ represents a md5crypt hash as shown [here](https://hashcat.net/wiki/doku.php?id=example_hashes)</br>
+I use JohnTheRipper to crack it.
+
+![](pics/easy2_f.png)
+
+Flag : <b>Bonnie48</b>
+
 ### Easy crack 3
 
 ![](pics/easy3.png)
