@@ -228,6 +228,6 @@ Flag : <b>flag{AnalyzeTheTrafficAndDecodeTheBase64}</b>
 
 After going around the discord (channels, members, description...), I used the seach function on "flag".
 
-![](pics/discord_f.png)
+![](pics/disc.png)
 
 Flag : <b>flag{fitness_this_flag_on_discord}</b>
