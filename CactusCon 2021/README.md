@@ -83,7 +83,7 @@ Flag : <b>TS{freeFlagLookatMe}</b>
 We have to have the syscall call that prevents us from continuing the analysis.</br>
 I give the rights to the "client" file and I use to retrieve the syscall.
 
-![](pics/syscalls_f.png)
+![](pics/syscall_f.png)
 
 The syscall is ptrace
 
@@ -92,6 +92,17 @@ Flag : <b>ptrace</b>
 ### Who Me?
 
 ![](pics/whome.png)
+
+It is necessary to find the name of the malware, I use the command strings on the file client</br>
+and I send it output to the file "whome" then I open it in vim.
+
+![](pics/whome_f.png)
+
+I find the answer on line 655
+
+![](pics/whome_fl.png)
+
+Flag : <b>TheCovidBotNet</b>
 
 ### Scouting
 
