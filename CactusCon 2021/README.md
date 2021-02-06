@@ -157,13 +157,18 @@ Flag : <b>kuako</b>
 We download a file from the Windows event viewer to analyze it, set the error</br>
 filter, we quickly find a strange service.
 
-![](pics/dangers1_f.png)
+![](pics/danger1_f.png)
 
 Flag : <b>53b07c3</b>
 
 ### Dangers of Lateral Movement 2
 
 ![](pics/dangers2.png)
+
+By closely analysing the logs we find the installation of a service on 29/01/2021</br>
+at 20:10/21 from the adress 192.168.27.134.
+
+![](pics/danger2_f.png)
 
 ### Hello Goodbye 2
 
