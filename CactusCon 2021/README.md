@@ -108,6 +108,13 @@ Flag : <b>TheCovidBotNet</b>
 
 ![](pics/scouting.png)
 
+I need to find the C2 server, I run the "client" file and wait a few seconds before launching wireshark.</br>
+Filter on DNS and find the name of the server.
+
+![](pics/malware.png)
+
+Flag : <b>covidfunds.net</b>
+
 ## 3- Cracking
 
 ### Easy crack 2
