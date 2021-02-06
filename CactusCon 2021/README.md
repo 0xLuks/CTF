@@ -16,7 +16,7 @@ I finish 68th out of 420 participants.
 
 ### DIV Isn't Only for HTML
 
-![](pics/div isn't.png)
+![](pics/divisn't.png)
 
 ### Agent Smith
 
