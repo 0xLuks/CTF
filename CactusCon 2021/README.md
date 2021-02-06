@@ -206,7 +206,7 @@ Flag : <b>PipeMeMario</b>
 
 ![](pics/smb2.png)
 
-We filter on smb2.data.offset and we see the "read response" stream with date (75 bytes).</br>
+We filter on smb2.data.offset and we see the "read response" stream with data (75 bytes).</br>
 
 ![](pics/smb2_f1.png)
 
@@ -226,4 +226,8 @@ Flag : <b>flag{AnalyzeTheTrafficAndDecodeTheBase64}</b>
 
 ![](pics/discord.png)
 
+After going around the discord (channels, members, description...), I used the seach function on "flag".
 
+![](pics/discord_f.png)
+
+Flag : <b>flag{fitness_this_flag_on_discord}</b>
