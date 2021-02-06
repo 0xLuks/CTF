@@ -41,6 +41,8 @@ I open the file tab and find the div.exe file. Right click then Calculate MD5 / 
 
 ![](pics/div.png)
 
+![](pics/div_hash.png)
+
 ![](pics/div.exe.png)
 
 Hash md5 found!
