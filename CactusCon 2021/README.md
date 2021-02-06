@@ -186,6 +186,12 @@ Flag : <b>Arash</b>
 
 ![](pics/hello4.png)
 
+We can see a special user: sAadmin on 02/02/2021 at 05:56:18
+
+![](pics/hello4_f.png)
+
+Flag : <b>sAadmin</b>
+
 ### What SMB Activity? 1
 
 ![](pics/smb1.png)
