@@ -1,6 +1,6 @@
 # CactusCon CTF 2021
 
-![]()
+![](images/cactuscon.png)
 
 ## Context
 
@@ -12,19 +12,33 @@ I finish 68th out of 420 participants.
 
 ### Collecting pokemons
 
+![](images/collecting_pokemons.png)
+
 ### DIV Isn't Only for HTML
 
+![](images/div_isn't.png)
+
 ### Agent Smith
+
+![](images/agent_smith.png)
 
 ## 2- CovidScammers
 
 ### Free Flag (and binary)
 
-### Syscalls 
+![](images/freeflag.png)
+
+### Syscalls
+
+![](images/syscalls.png)
 
 ### Who Me?
 
+![](images/whome.png)
+
 ### Scouting
+
+![](images/scouting.png)
 
 ## 3- Cracking
 
